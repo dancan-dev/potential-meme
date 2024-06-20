@@ -7,6 +7,7 @@
  */
 const taskInput = document.getElementById("task");
 const taskTracker = document.getElementById("addTask");
+const name = document.querySelector(".name");
 
 taskInput.addEventListener("change", function () {
   console.log("New event detected");
