@@ -1,0 +1,5 @@
+# This is a file that provides more detailed instructions on how to configure this web app, other than the attached README.md file
+- You can download this code as a zip document or copy the code directly into your IDE, or you can as well clone this repo.
+- Another alternative approach can be to fork this repo, and have it set. 
+The Only disadvantage of cloning is that, if you try to make any pushes of this code, all of them will to this repo, hence if you had a plan to make a personal repo from this code, you can use the approach of either
+forking or downloading the code as a zipped doc.
